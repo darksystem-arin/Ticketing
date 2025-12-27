@@ -1,0 +1,8 @@
+{
+  "name": "سامانه تیکت",
+  "description": "A professional, minimalist ticketing system with real-time chat interface, file attachments, SLA tracking, and mobile-login authentication.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
